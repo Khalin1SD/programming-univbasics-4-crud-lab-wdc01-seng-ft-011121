@@ -22,7 +22,8 @@ end
 def remove_element_from_end_of_array(array)
   my_array = Array.new(2)
   my_array[0] = "arrays!"
-  my_array
+  my_array[1] = "hello"
+  my_array.delete
   
 end
 
