@@ -21,8 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
   binding.pry
-  array_remove_end = ["arrays!", "End"]
-  array_remove_end.pop
+  array_remove_end = ["arrays!", "hello"]
   
 end
 
