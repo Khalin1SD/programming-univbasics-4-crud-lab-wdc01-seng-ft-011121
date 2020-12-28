@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array_end = Array.new(3)
-  array_end.push
+  array_end.push "arrays!"
   
 end
 
