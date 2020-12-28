@@ -20,8 +20,7 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  binding.pry
-  array_remove_end = ["arrays!", "hello"]
+  my_array = Array.new(2)
   
 end
 
