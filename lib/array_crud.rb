@@ -46,6 +46,9 @@ def retrieve_first_element_from_array(array)
 end
 
 def retrieve_last_element_from_array(array)
+  retrieve_last = Array.new(3)
+  retrieve_last[2] = "arrays!"
+  retrieve_last[2]
   
 end
 
