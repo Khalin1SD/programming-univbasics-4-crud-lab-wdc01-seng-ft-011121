@@ -41,7 +41,7 @@ end
 def retrieve_first_element_from_array(array)
   retrieve_first = Array.new(3)
   retrieve_first[0] = "apple"
-  
+  retrieve_first[0] 
   
 end
 
