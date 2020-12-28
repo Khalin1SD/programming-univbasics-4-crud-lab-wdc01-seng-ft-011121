@@ -22,9 +22,9 @@ end
 def remove_element_from_end_of_array(array)
   binding.pry 
   my_array = Array.new(2)
-  my_array[0] = "arrays!"
-  my_array[1] = "hello"
-  my_array.delete ("hello")
+  my_array[0] = "hello"
+  my_array[1] = "arrays!"
+  my_array.delete ("arrays!")
   
 end
 
